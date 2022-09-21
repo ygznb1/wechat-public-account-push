@@ -103,19 +103,29 @@ export const config = {
       horoscopeDate: '08-02',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/",
-      festivals: [],
+      festivals: [
+       {"type": "*生日", "name": "姐姐", "year": "1995", "date": "01-05"},
+        
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {"type": "生日", "name": "姐姐", "year": "1995", "date": "02-04"},
+        
+      ],
       customizedDateList: []
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      name: "姐姐",
+      id: "oRhjX6IZl4JShyrpsbxHyDKkSJQg",
+      useTemplateId: "TjTqsHP9xgAggtSrFIXlMF2h9h3nTQPA8iiysZ3w7pQ",
+      province: "黑龙江",
+      city: "佳木斯",
+      horoscopeDate: '02-04',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/",
+      festivals: [
+      {"type": "*生日", "name": "姐姐", "year": "1995", "date": "01-05"},
+        
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {"type": "生日", "name": "姐姐", "year": "1995", "date": "02-04"},],
       customizedDateList: []
     },
     {
