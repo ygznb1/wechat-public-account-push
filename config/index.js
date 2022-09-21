@@ -122,10 +122,8 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/",
       festivals: [
-      {"type": "*阴历生日", "name": "姐姐", "year": "1995", "date": "01-05"},
-        
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "阳历生日", "name": "姐姐", "year": "1995", "date": "02-04"},],
+      {"type": "*生日", "name": "姐姐", "year": "1995", "date": "01-05"},
+      ],
       customizedDateList: []
     },
     {
