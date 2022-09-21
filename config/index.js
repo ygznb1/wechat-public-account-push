@@ -78,10 +78,10 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "亲爱的慧宝宝小寿星", "year": "2003", "date": "03-29"},
+        {"type": "*生日", "name": "法法", "year": "2002", "date": "06-24"},
         {"type": "节日", "name": "恋爱纪念日", "year": "2021", "date": "07-17"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "慧宝宝", "year": "2003", "date": "04-30"},
+        {"type": "生日", "name": "慧宝宝", "year": "2003", "date": "03-29"},
         {"type": "节日", "name": "被搭讪纪念日", "year": "2019", "date": "09-01"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
@@ -115,17 +115,17 @@ export const config = {
     {
       name: "姐姐",
       id: "oRhjX6IZl4JShyrpsbxHyDKkSJQg",
-      useTemplateId: "TjTqsHP9xgAggtSrFIXlMF2h9h3nTQPA8iiysZ3w7pQ",
+      useTemplateId: "wQP_1Zm_3XjosWRApTnqgCqdXDMJH-oa1mt8Lc55lFc",
       province: "黑龙江",
       city: "佳木斯",
       horoscopeDate: '02-04',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/",
       festivals: [
-      {"type": "*生日", "name": "姐姐", "year": "1995", "date": "01-05"},
+      {"type": "*阴历生日", "name": "姐姐", "year": "1995", "date": "01-05"},
         
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "姐姐", "year": "1995", "date": "02-04"},],
+        {"type": "阳历生日", "name": "姐姐", "year": "1995", "date": "02-04"},],
       customizedDateList: []
     },
     {
