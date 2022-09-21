@@ -66,9 +66,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "TAwZ7Ce9AyVkHZsQ7EOF7_nm3wyNMrlkCKXBsceRImM	",
       // 所在省份
-      province: "黑龙江省",
+      province: "黑龙江",
       // 所在城市
-      city: "佳木斯市",
+      city: "佳木斯",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '04-30',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -96,13 +96,13 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      id: "oRhjX6I381H4B9_dPnapiSVehXUc",
+      useTemplateId: "TAwZ7Ce9AyVkHZsQ7EOF7_nm3wyNMrlkCKXBsceRImM",
+      province: "黑龙江",
+      city: "佳木斯",
+      horoscopeDate: '08-02',
+      horoscopeDateType: '今日',
+      openUrl: "https://tophub.today/",
       festivals: [],
       customizedDateList: []
     },
