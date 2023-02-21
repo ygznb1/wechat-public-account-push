@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRhjX6AKME_hP7SojZjmm2Uj8Ibk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "bJ6FI65pTsEKU0X7PJA2krfg_RjaUNlGPYbvArTLT0M",
+      useTemplateId: "hwunyvk5XvTMaQdW-NO4UCFHquzCoZmXeltWw4RYa1I",
       // 所在省份
       province: "黑龙江",
       // 所在城市
@@ -100,7 +100,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRhjX6DVfSIIx8qX9gdmQdYIF6Vg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "bVsl42SwvsYElf2h2ykQpIZlFOTHYkwHViD5ZYPO82c",
+      useTemplateId: "70T3QnhA-qaDhz6jkuAP5MFBPlvWoELXKF_EdaZETIU",
       // 所在省份
       province: "黑龙江",
       // 所在城市
@@ -133,7 +133,7 @@ export const config = {
     {
       name: "姐姐",
       id: "oRhjX6IZl4JShyrpsbxHyDKkSJQg",
-      useTemplateId: "wQP_1Zm_3XjosWRApTnqgCqdXDMJH-oa1mt8Lc55lFc",
+      useTemplateId: "vvMUPL3dB3g6NaScPW3Lohy5nqH97s1f3QpT54B8Bwo",
       province: "黑龙江",
       city: "佳木斯",
       horoscopeDate: '02-04',
