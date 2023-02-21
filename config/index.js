@@ -41,7 +41,7 @@ export const config = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "慧宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oRhjX6AKME_hP7SojZjmm2Uj8Ibk",
+      id: "oRhjX6AKME_hP7SojZjmm2Uj8Ib",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "bJ6FI65pTsEKU0X7PJA2krfg_RjaUNlGPYbvArTLT0M",
       // 所在省份
@@ -100,7 +100,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRhjX6DVfSIIx8qX9gdmQdYIF6Vg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "bJ6FI65pTsEKU0X7PJA2krfg_RjaUNlGPYbvArTLT0M",
+      useTemplateId: "	JHRrk57a2KA-MSVcQ9y9AO9jvkfAGTvbNCvNqT5dqcE",
       // 所在省份
       province: "黑龙江",
       // 所在城市
@@ -132,7 +132,7 @@ export const config = {
     },
     {
       name: "姐姐",
-      id: "oRhjX6IZl4JShyrpsbxHyDKkSJQg",
+      id: "oRhjX6IZl4JShyrpsbxHyDKkSJQ",
       useTemplateId: "wQP_1Zm_3XjosWRApTnqgCqdXDMJH-oa1mt8Lc55lFc",
       province: "黑龙江",
       city: "佳木斯",
