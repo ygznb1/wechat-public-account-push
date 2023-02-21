@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "oRhjX6I381H4B9_dPnapiSVehXUc",
+      id: "oRhjX6DVfSIIx8qX9gdmQdYIF6Vg",
       useTemplateId: "bJ6FI65pTsEKU0X7PJA2krfg_RjaUNlGPYbvArTLT0M",
       province: "黑龙江",
       city: "佳木斯",
@@ -104,10 +104,10 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/",
       festivals: [
-       {"type": "*生日", "name": "姐姐", "year": "1995", "date": "01-05"},
+       {"type": "*阴历生日", "name": "杠杠", "year": "2002", "date": "06-24"},
         
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "姐姐", "year": "1995", "date": "02-04"},
+        {"type": "阳历生日", "name": "杠杠", "year": "2002", "date": "08-02"},
         
       ],
       customizedDateList: []
